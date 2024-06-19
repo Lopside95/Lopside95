@@ -57,11 +57,11 @@
       width="40px"
       height="40px"
     />      
-    <img
+<!--     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
       width="40px"
       height="40px"
-    />
+    /> -->
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lopside95&layout=compact)
