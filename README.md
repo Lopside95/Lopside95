@@ -64,7 +64,7 @@
     /> -->
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lopside95&layout=compact)
+ <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lopside95&layout=compact) -->
 
 
 ## Things that aren't coding
