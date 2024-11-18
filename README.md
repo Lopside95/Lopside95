@@ -79,9 +79,11 @@
       width="40px"
       height="40px"
     />
-
-         
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knexjs/knexjs-original.svg" 
+     width="40px"
+     height="40px"
+/>
+          
           
 </p>
 
