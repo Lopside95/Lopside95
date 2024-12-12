@@ -1,8 +1,8 @@
 ## Hi, I'm James 👋. I like making things.
 
 
-### <a href="https://www.jameswallington.co.uk/">jameswallington.co.uk</a>
-### <a href="https://herobuilder.vercel.app/">Hero Builder</a>
+### <a href="https://www.jameswallington.co.uk/">My Site</a>
+### <a href="https://findmydog.vercel.app/">Find My Dog</a>
 
  
 ## Tech      
