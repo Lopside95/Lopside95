@@ -63,7 +63,6 @@
       width="40px"
       height="40px"
     />
- 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
       width="40px"
       height="40px"
@@ -83,9 +82,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knexjs/knexjs-original.svg" 
      width="40px"
      height="40px"
-/>
-          
-          
+/>    
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
+     width="40px"
+     height="40px"
+ />
+           -->
+  
 </p>
 
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lopside95&layout=compact&custom_title=My%20Languages) 
