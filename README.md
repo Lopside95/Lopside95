@@ -25,6 +25,10 @@
       width="40px"
       height="40px"
     />
+ <img  src="https://raw.githubusercontent.com/vitest-dev/vitest/b997355be71220c098563b1a60056eb57f4d4d90/docs/public/logo.svg" 
+      width="40px"
+      height="40px"
+    />
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
       width="40px"
@@ -73,10 +77,10 @@
       width="40px"
       height="40px"
     />
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" 
+<!-- <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" 
       width="40px"
       height="40px"
-    />
+    /> -->
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" 
       width="40px"
       height="40px"
