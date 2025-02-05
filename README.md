@@ -1,7 +1,9 @@
 ## Hi, I'm James 👋. I like making things.
 
 
-### <a href="https://www.jameswallington.co.uk/">My Site</a>
+### <a href="https://www.jameswallington.co.uk/">My Personal Site</a>
+
+
 ### <a href="https://findmydog.vercel.app/">Find My Dog</a>
 ### <a href="https://booksfromjames.vercel.app/">Book Recommendations</a>
 
@@ -91,7 +93,33 @@
   
 </p>
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lopside95&layout=compact&custom_title=My%20Languages) 
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lopside95&layout=compact&custom_title=My%20code%20looks%20like:) 
+
+### I'm learning: Docker & CircleCI
+
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"
+   width="40px"
+     height="40px"
+   /> 
+ <img src="https://img.icons8.com/?size=100&id=C4OYHif_29XE&format=png&color=ffffff"
+   width="40px"
+     height="40px"
+   />
+</p>
+
+
+
+
+ 
+  
+
+ 
+
+
+
+          
+          
+
 
 
 ## Things that aren't coding
