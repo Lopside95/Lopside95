@@ -106,9 +106,9 @@
   
 </p>
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lopside95&layout=compact&custom_title=My%20code%20looks%20like) 
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lopside95&layout=compact&custom_title=My%20code) 
 
-### I'm learning: Docker & CircleCI
+<!-- ### I'm learning: Docker & CircleCI
 
 <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"
    width="40px"
@@ -118,7 +118,7 @@
    width="40px"
      height="40px"
    />
-</p>
+</p>-->
 
 
 
