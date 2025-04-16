@@ -4,8 +4,9 @@
 ### <a href="https://www.jameswallington.co.uk/">My Personal Site</a>
 
 
-### <a href="https://findmydog.vercel.app/">Find My Dog</a>
-### <a href="https://booksfromjames.vercel.app/">Book Recommendations</a>
+<p><a href="https://findmydog.vercel.app/">Find My Dog</a> - Capstone project for the BrainStation Software Engineering Bootcamp</p>
+
+<p><a href="https://booksfromjames.vercel.app/">Book Recommendations</a> - A little project that provides recommendations from a my favourite books</p>
 
  
 ## Tech      
@@ -108,6 +109,24 @@
 
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lopside95&layout=compact&custom_title=My%20code) 
 
+
+
+<div>
+<h3> I'm learning <span style="text-decoration: underline">C#</span> and <span style="text-decoration: underline">VertexAI</span> </h4>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"          
+       width="30px"
+       height="30px"
+       style="margin-right: 18px;" /> 
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKrTg_Ygs_SNsALOCO1-s6-KYS2CKFd0LvfA&s"          
+        width="30px"
+       height="30px"
+ />
+   
+</p> 
+</div>
+
+
 <!-- ### I'm learning: Docker & CircleCI
 
 <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"
@@ -137,8 +156,9 @@
 
 ## Things that aren't coding
 ### Writing ✍️
-### Woodwork 🛠️
+### Gaming 🎮
 ### Football ⚽ 
+### Woodwork 🛠️
 ### No.1 fan of Dogs 🐶
 
 
