@@ -6,7 +6,7 @@
 
 <p><a href="https://findmydog.vercel.app/">Find My Dog</a> - Capstone project for the BrainStation Software Engineering Bootcamp</p>
 
-<p><a href="https://booksfromjames.vercel.app/">Book Recommendations</a> - A little project that provides recommendations from a my favourite books</p>
+<p><a href="https://booksfromjames.vercel.app/">Book Recommendations</a> - A little project that provides recommendations from a pool of my favourite books</p>
 
  
 ## Tech      
