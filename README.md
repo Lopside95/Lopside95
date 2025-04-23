@@ -157,7 +157,6 @@
 ## Things that aren't coding
 ### Writing ✍️
 ### Gaming 🎮
-### Football ⚽ 
 ### Woodwork 🛠️
 ### No.1 fan of Dogs 🐶
 
