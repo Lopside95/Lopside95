@@ -112,7 +112,8 @@
 
 
 <div>
-<h3> I'm learning <span style="text-decoration: underline">C#</span> , <span style="text-decoration: underline">VertexAI</span > and <span style="text-decoration: underline">Google Cloud</span> </h4>
+<h3> I'm learning <span style="text-decoration: underline">C#</span> and <span style="text-decoration: underline">VertexAI</span ></h4>
+<!-- <h3> I'm learning <span style="text-decoration: underline">C#</span> , <span style="text-decoration: underline">VertexAI</span > and <span style="text-decoration: underline">Google Cloud</span> </h4> -->
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"          
        width="30px"
@@ -122,10 +123,10 @@
         width="30px"
        height="30px"
  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"        
+<!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"        
         width="30px"
        height="30px"
- />
+ /> -->
    
 </p> 
 </div>
