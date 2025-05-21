@@ -53,6 +53,11 @@
       width="40px"
       height="40px"
     />
+ <img
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
+      width="40px"
+      height="40px"
+    />
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trpc/trpc-original.svg"
       width="40px"
