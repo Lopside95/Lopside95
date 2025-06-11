@@ -117,10 +117,10 @@
 
 
 <div>
-<h3> I'm learning <span style="text-decoration: underline">C#</span> and <span style="text-decoration: underline">VertexAI</span ></h4>
+<h3> I'm learning <span style="text-decoration: underline">Python</span> and <span style="text-decoration: underline">VertexAI</span ></h4>
 <!-- <h3> I'm learning <span style="text-decoration: underline">C#</span> , <span style="text-decoration: underline">VertexAI</span > and <span style="text-decoration: underline">Google Cloud</span> </h4> -->
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"          
        width="30px"
        height="30px"
        style="margin-right: 18px;" /> 
