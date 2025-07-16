@@ -76,6 +76,18 @@
       width="40px"
       height="40px"
     />
+ <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+      width="40px"
+      height="40px"
+    />
+ <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKrTg_Ygs_SNsALOCO1-s6-KYS2CKFd0LvfA&s" 
+      width="40px"
+      height="40px"
+    />
+    
+ 
+
+          
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg"
       width="40px"
      height="40px"
@@ -116,38 +128,6 @@
 
 
 
-<div>
-<h3> I'm learning <span style="text-decoration: underline">Python</span> and <span style="text-decoration: underline">VertexAI</span ></h4>
-<!-- <h3> I'm learning <span style="text-decoration: underline">C#</span> , <span style="text-decoration: underline">VertexAI</span > and <span style="text-decoration: underline">Google Cloud</span> </h4> -->
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"          
-       width="30px"
-       height="30px"
-       style="margin-right: 18px;" /> 
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKrTg_Ygs_SNsALOCO1-s6-KYS2CKFd0LvfA&s"          
-        width="30px"
-       height="30px"
- />
-<!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"        
-        width="30px"
-       height="30px"
- /> -->
-   
-</p> 
-</div>
-
-
-<!-- ### I'm learning: Docker & CircleCI
-
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"
-   width="40px"
-     height="40px"
-   /> 
- <img src="https://img.icons8.com/?size=100&id=C4OYHif_29XE&format=png&color=ffffff"
-   width="40px"
-     height="40px"
-   />
-</p>-->
 
 
 
