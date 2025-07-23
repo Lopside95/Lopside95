@@ -85,8 +85,28 @@
       height="40px"
     />
     
- 
-
+ <!--
+<p>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+    width="40px"
+    height="40px"
+  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"
+       width="40px"
+      height="40px"
+ />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg"
+    width="40px"
+    height="40px"
+ />
+  via
+<img src="https://cdn.brandfetch.io/idTqV2BNgX/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1741065928722"
+    width="40px"
+    height="40px"
+ />
+ with Bret Fisher       
+</p>
+        /> -->  
           
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg"
       width="40px"
