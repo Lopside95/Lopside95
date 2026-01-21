@@ -153,7 +153,7 @@
   
 </p>
 
-   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lopside95&layout=compact&custom_title=My%20code) -->
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lopside95&layout=compact&custom_title=My%20code)
 
 
 
