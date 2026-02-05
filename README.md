@@ -89,10 +89,10 @@
       width="40px"
       height="40px"
     />
- <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKrTg_Ygs_SNsALOCO1-s6-KYS2CKFd0LvfA&s" 
+ <!-- <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKrTg_Ygs_SNsALOCO1-s6-KYS2CKFd0LvfA&s" 
       width="40px"
       height="40px"
-    />
+    /> -->
     
  <!--
 <p>
