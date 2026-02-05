@@ -13,81 +13,81 @@
 <p style="">
 <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-      width="40px"
-      height="40px"
+      width="60px"
+      height="60px"
     />
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
-      width="40px"
-      height="40px"
+    width="60px"
+      height="60px"
     />
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
-      width="40px"
-      height="40px"
+      width="60px"
+      height="60px"
     />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-      width="40px"
-      height="40px"
+   width="60px"
+      height="60px"
     />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-      width="40px"
-      height="40px"
+  width="60px"
+      height="60px"
     />
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"
-      width="40px"
-      height="40px"
+   width="60px"
+      height="60px"
     />
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg"
-      width="40px"
-      height="40px"
+    width="60px"
+      height="60px"
     />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
-    width="40px"
-    height="40px"
+    width="60px"
+      height="60px"
   />
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-      width="40px"
-      height="40px"
+   width="60px"
+      height="60px"
     />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
-      width="40px"
-      height="40px"
+  width="60px"
+      height="60px"
     />
  <img
      src="https://raw.githubusercontent.com/vitest-dev/vitest/b997355be71220c098563b1a60056eb57f4d4d90/docs/public/logo.svg" 
-      width="40px"
-      height="40px"
+    width="60px"
+      height="60px"
     />
  <img
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" 
-      width="40px"
-      height="40px"
+   width="60px"
+      height="60px"
     />
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trpc/trpc-original-wordmark.svg"
-      width="40px"
-      height="40px"
+  width="60px"
+      height="60px"
     />
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg"
-      width="40px"
-      height="40px"
+width="60px"
+      height="60px"
     />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knexjs/knexjs-original-wordmark.svg" 
-      width="40px"
-     height="40px"
+width="60px"
+      height="60px"
 /> 
  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original-wordmark.svg" 
-      width="40px"
-      height="40px"
+width="60px"
+      height="60px"
     />
  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" 
-      width="40px"
-      height="40px"
+   width="60px"
+      height="60px"
     />
  <!-- <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKrTg_Ygs_SNsALOCO1-s6-KYS2CKFd0LvfA&s" 
       width="40px"
