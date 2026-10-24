@@ -176,6 +176,7 @@ width="60px"
 ## Things that aren't coding
 ### Writing ✍️
 ### Gaming 🎮
+### 3D Printing 🖨️
 ### Woodwork 🛠️
 ### No.1 fan of Dogs 🐶
 
