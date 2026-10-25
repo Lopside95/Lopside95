@@ -1,7 +1,7 @@
 ## Hi, I'm James 👋. I like making things.
 
 
- <p><a href="https://www.jameswallington.co.uk/">jameswallington.co.uk</a></p>
+ <p><a href="https://www.james-wallington.com/">jameswallington.co.uk</a></p>
 
 
 <p><a href="https://findmydog.vercel.app/">Find My Dog</a> - Capstone project for the BrainStation Software Engineering Bootcamp</p>
